@@ -10,4 +10,6 @@ public class VolumeController extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    public void func()
+    {}
 }
